@@ -2,6 +2,15 @@
     "name": "nos.sys.vulkan",
     "releases": [
         {
+            "version": "1.0.1.b98",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.vulkan-1.0.1.b98/nos.sys.vulkan-1.0.1.b98.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.1.b96",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.vulkan-1.0.1.b96/nos.sys.vulkan-1.0.1.b96.zip",
             "subsystem_api_version": {
