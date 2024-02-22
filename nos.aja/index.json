@@ -2,6 +2,15 @@
     "name": "nos.aja",
     "releases": [
         {
+            "version": "1.0.1.b192",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b192/nos.aja-1.0.1.b192.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.1.b182",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b182/nos.aja-1.0.1.b182.zip",
             "plugin_api_version": {
