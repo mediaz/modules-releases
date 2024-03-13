@@ -1,0 +1,14 @@
+{
+    "name": "nos.sys.tensor",
+    "releases": [
+        {
+            "version": "1.0.0.b39",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.tensor-1.0.0.b39/nos.sys.tensor-1.0.0.b39.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 1,
+                "patch": 0
+            }
+        }
+    ]
+}
