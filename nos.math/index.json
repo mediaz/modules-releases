@@ -2,6 +2,15 @@
     "name": "nos.math",
     "releases": [
         {
+            "version": "1.0.0.b216",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b216/nos.math-1.0.0.b216.zip",
+            "plugin_api_version": {
+                "major": 33,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b215",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b215/nos.math-1.0.0.b215.zip",
             "plugin_api_version": {
