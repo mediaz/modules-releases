@@ -2,6 +2,15 @@
     "name": "nos.Interop",
     "releases": [
         {
+            "version": "1.0.0.b53",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.Interop-1.0.0.b53/nos.Interop-1.0.0.b53.zip",
+            "plugin_api_version": {
+                "major": 33,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b45",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.Interop-1.0.0.b45/nos.Interop-1.0.0.b45.zip",
             "plugin_api_version": {
