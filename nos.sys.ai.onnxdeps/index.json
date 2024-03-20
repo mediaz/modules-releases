@@ -2,6 +2,15 @@
     "name": "nos.sys.ai.onnxdeps",
     "releases": [
         {
+            "version": "1.0.0.b60",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b60/nos.sys.ai.onnxdeps-1.0.0.b60.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b57",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b57/nos.sys.ai.onnxdeps-1.0.0.b57.zip",
             "subsystem_api_version": {
