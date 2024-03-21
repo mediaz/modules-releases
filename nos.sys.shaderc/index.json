@@ -2,6 +2,15 @@
     "name": "nos.sys.shaderc",
     "releases": [
         {
+            "version": "1.0.0.b248",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b248/nos.sys.shaderc-1.0.0.b248.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b247",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b247/nos.sys.shaderc-1.0.0.b247.zip",
             "subsystem_api_version": {
