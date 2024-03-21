@@ -2,6 +2,15 @@
     "name": "nos.filters",
     "releases": [
         {
+            "version": "1.0.0.b247",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b247/nos.filters-1.0.0.b247.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b239",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b239/nos.filters-1.0.0.b239.zip",
             "plugin_api_version": {
