@@ -2,6 +2,15 @@
     "name": "nos.ML.ONNX",
     "releases": [
         {
+            "version": "1.0.0.b88",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.ML.ONNX-1.0.0.b88/nos.ML.ONNX-1.0.0.b88.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b81",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.ML.ONNX-1.0.0.b81/nos.ML.ONNX-1.0.0.b81.zip",
             "plugin_api_version": {
