@@ -2,6 +2,15 @@
     "name": "nos.ML.Tensors",
     "releases": [
         {
+            "version": "1.0.0.b85",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.ML.Tensors-1.0.0.b85/nos.ML.Tensors-1.0.0.b85.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b78",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.ML.Tensors-1.0.0.b78/nos.ML.Tensors-1.0.0.b78.zip",
             "plugin_api_version": {
