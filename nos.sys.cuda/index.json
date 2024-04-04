@@ -2,6 +2,15 @@
     "name": "nos.sys.cuda",
     "releases": [
         {
+            "version": "2.0.0.b105",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.cuda-2.0.0.b105/nos.sys.cuda-2.0.0.b105.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "2.0.0.b103",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.cuda-2.0.0.b103/nos.sys.cuda-2.0.0.b103.zip",
             "subsystem_api_version": {
