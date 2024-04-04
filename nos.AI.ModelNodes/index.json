@@ -2,6 +2,10 @@
     "name": "nos.AI.ModelNodes",
     "releases": [
         {
+            "version": "2.0.0.b105",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.AI.ModelNodes-2.0.0.b105/nos.AI.ModelNodes-2.0.0.b105.zip"
+        },
+        {
             "version": "2.0.0.b103",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.AI.ModelNodes-2.0.0.b103/nos.AI.ModelNodes-2.0.0.b103.zip"
         },
