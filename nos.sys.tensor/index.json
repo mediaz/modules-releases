@@ -2,6 +2,15 @@
     "name": "nos.sys.tensor",
     "releases": [
         {
+            "version": "2.0.0.b107",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.tensor-2.0.0.b107/nos.sys.tensor-2.0.0.b107.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
             "version": "2.0.0.b105",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.tensor-2.0.0.b105/nos.sys.tensor-2.0.0.b105.zip",
             "subsystem_api_version": {
