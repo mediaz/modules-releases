@@ -2,6 +2,15 @@
     "name": "nos.utilities",
     "releases": [
         {
+            "version": "2.0.0.b327",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b327/nos.utilities-2.0.0.b327.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
             "version": "2.0.0.b325",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b325/nos.utilities-2.0.0.b325.zip",
             "plugin_api_version": {
