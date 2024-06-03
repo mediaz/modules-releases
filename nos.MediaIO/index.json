@@ -2,6 +2,15 @@
     "name": "nos.MediaIO",
     "releases": [
         {
+            "version": "1.0.0.b390",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b390/nos.MediaIO-1.0.0.b390.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 5,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b389",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b389/nos.MediaIO-1.0.0.b389.zip",
             "plugin_api_version": {
