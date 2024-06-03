@@ -2,6 +2,15 @@
     "name": "nos.sys.ai",
     "releases": [
         {
+            "version": "3.0.0.b163",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-3.0.0.b163/nos.sys.ai-3.0.0.b163.zip",
+            "subsystem_api_version": {
+                "major": 9,
+                "minor": 4,
+                "patch": 0
+            }
+        },
+        {
             "version": "3.0.0.b143",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-3.0.0.b143/nos.sys.ai-3.0.0.b143.zip",
             "subsystem_api_version": {
