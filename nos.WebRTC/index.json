@@ -2,6 +2,15 @@
     "name": "nos.WebRTC",
     "releases": [
         {
+            "version": "1.0.0.b403",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b403/nos.WebRTC-1.0.0.b403.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 5,
+                "patch": 0
+            }
+        },
+        {
             "version": "1.0.0.b354",
             "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b354/nos.WebRTC-1.0.0.b354.zip",
             "plugin_api_version": {
